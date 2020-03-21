@@ -1,7 +1,7 @@
 # CROPTD
 Dataset for "Cross-Regional Oil Palm Tree Detection"
 
-Data available at [GoogleDrive](), [Baidu Netdisk]()
+Data available at [GoogleDrive](), [Baidu Netdisk](https://pan.baidu.com/s/1ZYwh59smtr8atF520uOJ1g) Extration code `blti`
 # Details
 We followed [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) format basically.
 

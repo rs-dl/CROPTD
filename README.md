@@ -13,7 +13,7 @@ The structure of the dataset is as follows:
 # Citation
 If you use this code for your research, please consider citing:
 
-'''
+```
 @inproceedings{wu2020cross,
   title={Cross-Regional Oil Palm Tree Detection},
   author={Wu, Wenzhao and Zheng, Juepeng and Fu, Haohuan and Li, Weijia and Yu, Le},
@@ -21,7 +21,7 @@ If you use this code for your research, please consider citing:
   pages={56--57},
   year={2020}
 }
-'''
+```
 
 Wu, W., Zheng, J., Fu, H., Li, W., & Yu, L. (2020). Cross-Regional Oil Palm Tree Detection. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (pp. 56-57).
 
